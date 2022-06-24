@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "digitalplayhouse",
+    "name": "digitalplayhousefoundation",
     "currentPage": "index.html",
     "theme": {
       "name": "modernm4",
@@ -46,7 +46,7 @@
     "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "b9rpoklxnr",
+    "mbrsiteDomain": "7ow9ww5cij",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -59,7 +59,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "DIGITAL PLAYHOUSE FOUNDATION LTD",
+        "title": "DPF",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
