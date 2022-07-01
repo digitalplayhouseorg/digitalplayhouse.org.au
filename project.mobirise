@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "digitalplayhousefoundation",
-    "currentPage": "adoptingbtc.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "modernm4",
       "title": "ModernM4",
@@ -45,8 +45,8 @@
     "uniqCompNum": 25,
     "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
-    "favicon": false,
-    "mbrsiteDomain": "7ow9ww5cij",
+    "favicon": "@PROJECT_PATH@/assets/images/dp-logo-with-icon-2.webp",
+    "mbrsiteDomain": "uh22wxrvoq",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
